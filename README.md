@@ -1,7 +1,7 @@
 # The demo videos for the talk "Fish and Chips and Apache Kafka®"
 
-These are the demo videos I am using for the talk at
-https://aiven-labs/fish-and-chips-and-kafka
+These are the demo videos used for the talk at
+https://github.com/Aiven-Labs/fish-and-chips-and-kafka
 
 I've made a separate repository because you don't necessarily
 want to download videos when you're looking at the main repository.
